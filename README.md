@@ -2,7 +2,7 @@
   <img width=800" height="350" src="https://github.com/leslievazquez/Javascript_Challenge/blob/main/Resources/UFO%20in%20Burton.jpg">
 </p>
 
-<h1 align ="center"><span>UFO Sightings<br/>JavaScript and DOM Manipulation</span></h1>
+<h1 align ="center"><span>UFO Sightings Database Using<br/>JavaScript and DOM Manipulation</span></h1>
 
 A code was written to create a table dynamically based upon the [dataset that was provided](https://github.com/leslievazquez/Javascript_Challenge/tree/main/Resources/StarterCode). The table allows users to filter the table data for specific values related to UFO sightings. The code was written using Javascript, HTML, CSS, and D3.js. 
 
